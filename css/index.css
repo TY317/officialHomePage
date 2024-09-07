@@ -1,0 +1,16 @@
+
+/* リンクのスタイル設定 */
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+/* コンテンツ準備中のスタイル設定 */
+.sorry_comment{
+    font-size: clamp(24px, 5vw, 50px);
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 400px;
+}

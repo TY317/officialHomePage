@@ -1,0 +1,19 @@
+/* 本文のセクション毎標題のスタイル設定 */
+.privacy_policy h3 {
+    font-size: large;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+/* こちら部分を青文字にする */
+.privacy_policy a {
+    color: blue !important;
+}
+
+/* 本文のスタイルを設定 */
+.privacy_policy p {
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+}
+
